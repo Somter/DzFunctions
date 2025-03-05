@@ -1,7 +1,7 @@
 ﻿<Window x:Class="DzFunctions.MainWindow"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-        Title="Фирма канцтоваров (Manual EF)" Height="1450" Width="1360" ResizeMode="NoResize">
+        Title="Фирма канцтоваров (Manual EF)" Height="1590" Width="1360" ResizeMode="NoResize">
 
     <ScrollViewer VerticalScrollBarVisibility="Auto">
         <StackPanel Orientation="Vertical" Margin="10">

@@ -1,15 +1,15 @@
 USE master;  
 GO  
 
-CREATE DATABASE DBFirmaAG;  
+CREATE DATABASE FirmsDB;  
 GO  
 
-USE DBFirmaAG;  
+USE FirmsDB;  
 GO  
 
 CREATE TABLE SupplyTypes  
 (  
-    TypeID INT IDENTITY(1,1) PRIMARY KEY,  
+    TypeID INT IDENTITY(1,1) PRIMARY KEY,   
     TypeName NVARCHAR(50) NOT NULL  
 );  
 GO  
