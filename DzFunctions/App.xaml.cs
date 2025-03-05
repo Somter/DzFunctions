@@ -2,7 +2,7 @@
 using System.Data;
 using System.Windows;
 
-namespace AG_DB.NET_HW4
+namespace DzFunctions
 {
     /// <summary>
     /// Interaction logic for App.xaml
